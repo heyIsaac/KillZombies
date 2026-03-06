@@ -6,7 +6,7 @@
 
 ## 📖 Sobre o Projeto
 
-**Sanctuary** é um protótipo de ambiente interativo em primeira pessoa desenvolvido na Unity, criado com foco em otimização e imersão para **Realidade Virtual (Meta Quest)**. O projeto foi construído para demonstrar conceitos práticos de Level Design, Inteligência Artificial (NavMesh), interação baseada em Raycast e integração de Áudio (SFX/BGM).
+**KillZombies** é um protótipo de ambiente interativo em primeira pessoa desenvolvido na Unity, criado com foco em otimização e imersão para **Realidade Virtual (Meta Quest)**. O projeto foi construído para demonstrar conceitos práticos de Level Design, Inteligência Artificial (NavMesh), interação baseada em Raycast e integração de Áudio (SFX/BGM).
 
 O ambiente transporta o jogador para um vale misterioso "Low Poly" infestado por inimigos, onde a exploração e a sobrevivência andam lado a lado.
 
